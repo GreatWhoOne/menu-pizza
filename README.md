@@ -52,6 +52,7 @@ npm start
 
 # Tecnologias
 
+- CSS
 - [React](https://git-scm.com/)
 
 # Autor
